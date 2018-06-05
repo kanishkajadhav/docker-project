@@ -1,2 +1,2 @@
-# docker-project
-Repository for Docker Project
+# Jenkins docker
+* Jenkins CI with docker client
